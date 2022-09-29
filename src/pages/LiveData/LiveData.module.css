@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.currencies__item {
+    padding: 10px 0;
+    border-top: 2px solid #ccc;
+}
+.currencies__item:last-of-type {
+    border-bottom: 2px solid #ccc;
+}
+.currencies__item:nth-of-type(2n) {
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 80px;
+    background-color: #f2f2f2;
+}
+.menu__list {
+    display: flex;
+    gap: 15px;
+}
